@@ -52,7 +52,7 @@ This project helped me:
 	- PIC remapping 
 
 4. **Drivers**
-	- Keyboard diver to print pressed keys
+	- Keyboard driver to print pressed keys
 	- Timer driver to tick at 100 Hz
 
 5. **Memory Management**
